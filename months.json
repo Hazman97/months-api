@@ -1,16 +1,16 @@
 {
   "months": [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December"
+   { label: "JANUARY", value: "JANUARY" },
+                { label: "FEBRUARY", value: "FEBRUARY" },
+                { label: "MARCH", value: "MARCH" },
+                { label: "APRIL", value: "APRIL" },
+                { label: "MAY", value: "MAY" },
+                { label: "JUNE", value: "JUNE" },
+                { label: "JULY", value: "JULY" },
+                { label: "AUGUST", value: "AUGUST" },
+                { label: "SEPTEMBER", value: "SEPTEMBER" },
+                { label: "OCTOBER", value: "OCTOBER" },
+                { label: "NOVEMBER", value: "NOVEMBER" },
+                { label: "DECEMBER", value: "DECEMBER" },
   ]
 }
